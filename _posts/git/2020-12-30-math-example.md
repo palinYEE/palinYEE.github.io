@@ -6,11 +6,10 @@ author: 윤영진
 use_math: true
 categories: git 
 tags: git
-comments: true
 ---
 
 \[\sum (\alpha \pm \beta)\]
 
-$$\sum (\alpha \pm \beta)$$
+$\sum (\alpha \pm \beta)$
 
 

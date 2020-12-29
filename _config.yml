@@ -28,6 +28,13 @@ markdown: kramdown
 inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
+# Math equation
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
 # Pagination Settings
 # https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 pagination:
@@ -203,9 +210,3 @@ protocols:
     os_rcs_type: "git"
     os_src: "git@github.com:bencentra/centrarium.com.git"
 
-# Math equation
-markdown: kramdown
-highlighter: rouge
-lsi: false
-excerpt_separator: "\n\n"
-incremental: false

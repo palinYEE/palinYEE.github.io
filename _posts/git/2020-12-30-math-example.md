@@ -20,7 +20,7 @@ Jekyll 테마 Github blog에 MathJax를 이용한 수식 입력을 가능하게 
 ```
 ![Alt text](/assets/git/math_script.gif "script example")
 
-수식을 이용하기 위해서는 `$[입력할 수식]$` 또는 `$$[입력할 수식]$$` 을 사용해야 한다. 그리고 수식의 문법은 `latex` 문법을 사용한다. `latex` 연습을 하는데 에는 다음 사이트를 참고하면 된다. 
+수식을 이용하기 위해서는 `$[입력할 수식]$` 또는 `$$[입력할 수식]$$` 을 사용해야 한다. 그리고 수식의 문법은 `latex` 문법을 사용한다. `latex` 연습을 하는데 다음 사이트를 참고하면 된다. 
 
 * <https://en.wikibooks.org/wiki/LaTeX/Mathematics> (LaTex docs)
 * <https://johngrib.github.io/wiki/mathjax-latex/> (간단한 사용예시)

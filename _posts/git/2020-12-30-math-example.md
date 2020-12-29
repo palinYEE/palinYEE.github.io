@@ -35,11 +35,9 @@ Jekyll 테마 Github blog에 MathJax를 이용한 수식 입력을 가능하게 
 $$f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$$
 ```
 
-
-
 유한체상에 다항식 $f(x) = \sum_{i=0}^{n}a_ix^i$의 미분을 $f'(x)$으로 정의한다.
 
-$$f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$$
+>$$f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$$
 
 --------------------------
 # Reference

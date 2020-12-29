@@ -39,6 +39,10 @@ $$f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$$
 
 <center> $f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$ </center >
 
+
+**참고로 `$$[수식]$$` 으로 outline 을 하려고 했으나 본 깃 블로그에서는 사용되어지지 않는다 따라서 다음과 같이 한다...** 
+
+`<center> $f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$ </center >`
 --------------------------
 # Reference
 * <https://seongkyun.github.io/others/2019/01/03/MathJax/>

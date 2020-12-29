@@ -4,8 +4,8 @@ title:  "[GIT] 깃 블로그에서 수식 사용하기"
 date:   2020-12-30T00:14:52-05:00
 author: 윤영진
 use_math: true
-categories: git MathJax 
-tags: git
+categories: git
+tags: git  MathJax 
 ---
 # Jekyll 테마 Github blog에 MathJax를 이용한 수식 입력 가능하게 하기
 
@@ -37,8 +37,9 @@ $$f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$$
 
 
 
-> 유한체상에 다항식 $f(x) = \sum_{i=0}^{n}a_ix^i$의 미분을 $f'(x)$으로 정의한다.
-> $$f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$$
+유한체상에 다항식 $f(x) = \sum_{i=0}^{n}a_ix^i$의 미분을 $f'(x)$으로 정의한다.
+
+$$f'(x) = \sum_{i=0}^{n}i\cdot a_ix^{i-1}$$
 
 --------------------------
 # Reference

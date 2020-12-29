@@ -27,6 +27,7 @@ You can find out more info about customizing your Jekyll theme, as well as basic
     * 2020.01. ~ 2020.02. (드림 시큐리티) : 임베디드 장비 크로스 컴파일 및 난수 추출
     * 2020.07. ~ 2020.08. (NSHC) : 대칭키 암호 세미나 진행
     * 2020.09. ~ 2020.12. (NSHC) : 데이터 분석 및 대시보드 작성
+    * 2021.01. ~ 현재 : NSHC 연구원
 * 관심분야 : 암호학, 대수학, 데이터 분석
 * 사용 가능 코드 언어 : C, PYTHON 
  

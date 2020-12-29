@@ -8,4 +8,7 @@ tags: git
 use_math: true
 ---
 
+\[\sum (\alpha \pm \beta)\]
 $$\sum (\alpha \pm \beta)$$
+
+

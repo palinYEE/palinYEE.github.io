@@ -17,7 +17,7 @@ cover:  "/assets/instacode.png"
 
 위 두개의 차이점은 바로 가상화를 어디에서 하는가이다. docker for window는 자체 가상화 기술로 리눅스 환경을 만든 후 컨테이너를 생성하지만, docker Toolbox는 설치할때 같이 생성된 virtualbox에 리눅스 vm을 생성하고 거기에 도커를 설치하는 방식으로 진행된다. 이에 대한 그림은 다음과 같다. 
 
-![Alt text](/assets/elasticsearch/docker.png "docker")
+![Alt text](/assets/elasticsearch/docker.PNG "docker")
 
 여기서 내가 docker toolbox를 사용한 이유는 내 기준에서 좀더 다루기 쉬워서이다. 
 

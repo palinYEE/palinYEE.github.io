@@ -25,7 +25,8 @@ ex) y/y/j/12345656788242sdsd/yyj.exe
 
 위와 같은 디렉토리가 많을 때 자동으로 이를 스캔하고 virustotal에 질의한 후, 엑셀에 자동으로 저장해주는 코드가 필요했다.  
 
-```
+<pre>
+<code>
 import requests, json
 from openpyxl import Workbook
 from glob import glob
@@ -75,4 +76,5 @@ if __name__ == "__main__":
         # print(json.dumps(response,indent=4))
 
     write_wb.save('malware_virustotal_info.xlsx')
-```
+</code>
+</pre>

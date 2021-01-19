@@ -15,8 +15,9 @@ cover:  "/assets/instacode.png"
 ![Alt text](/assets/algorithm/2021-01-19_select_sort.png "필기")
 
 ### Code
-<pre>
-<code>
+
+```
+
 #include<stdio.h>
 
 int main(){
@@ -40,5 +41,4 @@ int main(){
     }
     return 0;
 }
-</code>
-</pre>
+```

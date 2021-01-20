@@ -19,7 +19,7 @@ You can find out more info about customizing your Jekyll theme, as well as basic
 
 * 이름 : 윤영진 
 * 출생 : 1997년 2월 28일
-* 학력 : 국민대학교 정보보안암호수학과 학사 (2015.03 ~ 2021.02 (졸업 예정))
+* 학력 : 국민대학교 정보보안암호수학과 학사 (2015.03 ~ 2021.02)
 * 논문 : 
     * [안성현, 윤영진, 이윤진, 전창열, 김주영, 김동찬, 선형동치 알고리듬의 효율적인 구현에 관한 연구, 하계 통신학회 종합학술발표회, 2019 (6월)][paper_1]
 * 경력 :
@@ -28,7 +28,7 @@ You can find out more info about customizing your Jekyll theme, as well as basic
     * 2020.07. ~ 2020.08. (NSHC) : 대칭키 암호 세미나 진행
     * 2020.09. ~ 2020.12. (NSHC) : 데이터 분석 및 대시보드 작성
     * 2021.01. ~ 현재 : NSHC 연구원
-* 관심분야 : 암호학, 대수학, 데이터 분석
+* 관심분야 : 암호학, 대수학, 데이터 분석, 알고리즘, AI 
 * 사용 가능 코드 언어 : C, PYTHON 
  
 

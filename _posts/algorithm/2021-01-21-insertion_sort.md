@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Algorithm] 삽입 정렬 (Insertion Sort)"
-date:   2021-01-20T10:00:52-05:00
+date:   2021-01-21T20:52-05:00
 author: 윤영진
 categories: algorithm 
 tags: algorithm sorting

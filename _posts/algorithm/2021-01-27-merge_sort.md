@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Algorithm] 병합 정렬 (Merge Sort)"
-date:   2021-01-27T20:52-05:00
+date:   2021-01-27T10:00:52-05:00
 author: 윤영진
 categories: algorithm 
 tags: algorithm sorting

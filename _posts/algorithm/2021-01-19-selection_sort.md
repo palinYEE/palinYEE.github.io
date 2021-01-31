@@ -4,7 +4,7 @@ title:  "[Algorithm] 선택 정렬 (Selection Sort)"
 date:   2021-01-19T10:00:52-05:00
 author: 윤영진
 categories: algorithm 
-tags: algorithm sorting
+tags: [algorithm, sorting]
 cover:  "/assets/instacode.png"
 ---
 # 선택 정렬 (Selection Sort)
